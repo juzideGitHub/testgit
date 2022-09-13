@@ -5,5 +5,7 @@ public class Main {
         System.out.println("分支dev");
         System.out.println("主干添加1");
         System.out.println("添加主干2");
+        System.out.println("分支添加1");
+        System.out.println("分支添加2");
     }
 }
