@@ -1,6 +1,8 @@
+package com.threadt.test;
+
 import java.util.Scanner;
 
-public class EqualsTest {
+public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 //        int num1 = sc.nextInt();
@@ -22,16 +24,11 @@ public class EqualsTest {
         }
 
         Object o0 = new Object();
-        Object o1 = o0;
+        Object o1 = new Object();
         if (o0.equals(o1)){
             System.out.println("obj");
         }
     }
 
-    public String r(){
-        int a = 1,b = 2;
 
-
-        return a > b ? "c" : "b";
-    }
 }

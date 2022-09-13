@@ -1,9 +1,11 @@
+package com.threadt.test;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class ArraysTest {
     public static void main(String[] args) {
-//        String[] arr0 = new String[]{"A","B","C","D","E","F"};
+//        String[] arr0 = new String[]{"com.threadt.test.A","com.threadt.test.B","com.threadt.test.C","D","E","F"};
 //        String[] arr1 = new String[6];
 //        System.out.println(Arrays.toString(arr0));
 //        System.out.println(Arrays.toString(arr1));

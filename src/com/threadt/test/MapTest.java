@@ -1,3 +1,5 @@
+package com.threadt.test;
+
 import java.util.Map;
 
 public class MapTest {

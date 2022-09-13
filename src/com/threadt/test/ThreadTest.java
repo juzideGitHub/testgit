@@ -1,3 +1,5 @@
+package com.threadt.test;
+
 public class ThreadTest extends Thread{
 
     @Override

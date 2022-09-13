@@ -1,3 +1,5 @@
+package com.threadt.test;
+
 public class TryTest {
     public static void main(String[] args) {
 

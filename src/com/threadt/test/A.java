@@ -1,3 +1,5 @@
+package com.threadt.test;
+
 public interface A {
     public default void a(){
         x();
